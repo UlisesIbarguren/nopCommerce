@@ -1,0 +1,14 @@
+{
+    "defaultCommandTimeout": 10000,
+    "chromeWebSecurity": false,
+    "viewportWidth": 1536,
+    "viewportHeight": 960,
+    "projectId": "s73hsm",
+    "env" :
+    {
+        "url" : "https://demo.nopcommerce.com/"
+    }
+    
+    
+}
+
